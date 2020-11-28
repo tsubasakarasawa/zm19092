@@ -2,5 +2,5 @@ function txtchange1() {
     document.getElementById('txt1').innerHTML= 'ナンバーワン!';
 }
 function imgchange1() {
-  document.getElementById('logo').src = './image/城西大学ロゴ.png';
+  document.getElementById('logo').src = './image/josaiu.png';
 }
