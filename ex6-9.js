@@ -3,5 +3,5 @@ function txtchange1() {
 }
 
 function imgchange1() {
-  document.getElementById('logo').src = './image/keiei_small.jpg';
+  document.getElementById('logo').src = './image/Jenco.jpg';
 }
