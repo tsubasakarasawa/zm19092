@@ -1,4 +1,4 @@
 function imgchange061() {
-    document.getElementById("logo").src=
+    document.getElementById("logo061").src=
      "./image/edokato.jpg";
     }
