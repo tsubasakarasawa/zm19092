@@ -1,4 +1,4 @@
-function imgchange1() {
+function imgchange610() {
 document.getElementById('logo').src =
-'./image/bulbon.gif';
+'./image/edokato.jpg';
 }
